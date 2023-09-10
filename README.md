@@ -1,6 +1,8 @@
 # UADEL Bootcamp Week 1 Challenge
 ## On-The-Job Ticket Challenge
 To refractor existing code for Search Engine Optimisation (SEO).
+## Depolyment Link:
+
 
 ## User Story:
 ```
@@ -64,3 +66,7 @@ THEN I find a concise, descriptive title
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 ```
+
+## Page Snapshot
+![Alt text](assets/images/snapshot.png)
+
