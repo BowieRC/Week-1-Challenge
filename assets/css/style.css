@@ -14,6 +14,11 @@ a {
     text-decoration: none;
 }
 
+a:hover
+{
+    color: rgb(155, 155, 155)
+}
+
 p {
     font-size: 16px;
 }
@@ -35,6 +40,7 @@ header h1 {
 
 header h1 .seo {
     color: red;
+    /* Why is this section of the header being treated differently? What is the purpose? */
 }
 
 header div {
