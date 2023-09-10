@@ -1,8 +1,9 @@
 # UADEL Bootcamp Week 1 Challenge
 ## On-The-Job Ticket Challenge
 To refractor existing code for Search Engine Optimisation (SEO).
-## Depolyment Link:
 
+## Depolyment Link:
+https://bowierc.github.io/Week-1-Challenge-SeoOptimisation/
 
 ## User Story:
 ```
